@@ -34,7 +34,7 @@
             {
                 "label": "My new page",
                 "altText": "Learn more",
-                "url": "/",
+                "url": "/this-is-new",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
