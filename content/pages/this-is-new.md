@@ -3,7 +3,7 @@ title: My new page
 sections:
   - type: FeaturedItemsSection
     colors: colors-h
-    title: Remote doesn’t mean alone. Here are so great features
+    title: My new page
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
