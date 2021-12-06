@@ -4,7 +4,7 @@
     "h1": {
         "size": "7xl",
         "weight": "bold",
-        "decoration": "underline",
+        "decoration": "line-through",
         "case": "none",
         "letterSpacing": "normal"
     },
